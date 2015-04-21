@@ -1,0 +1,14 @@
+This project includes different licenses and third party libraries. You can
+find the license that applies to each file in the comment at the top of that
+file, or in the directory it resides in. For simplicity, they are also listed
+here:
+
+Component               Directory           License
+----------------------------------------------------------------------
+Chroma Watcher source   src/                GPLv3
+Chroma Watcher art      gfx/                Creative Common BY-SA 4.0
+anim8                   lib/anim8           MIT
+middleclass             lib/middleclass     MIT
+hardoncollider          lib/hardoncollider  MIT
+Sounds                  sfx/                Multiple, see sfx/LICENSE.txt
+Fonts                   ttf/                See ttf/LICENSE.txt
